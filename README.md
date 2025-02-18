@@ -1,1 +1,1 @@
-# gr-ficos-diversos-faculdade
+# graficos-diversos-faculdade
